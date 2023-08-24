@@ -1,2 +1,2 @@
 # first_repo
-my lab ojne for masters
+my lab one for masters
