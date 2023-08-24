@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is a Microsoft word document.  (This is a change – Version for main branch)
+=======
+This is a Microsoft word document.  (This is a change – Version for branch alternate)
+>>>>>>> alternative
 It will be treated as a binary file by Git.
 
 The Raven
@@ -129,3 +133,7 @@ On the pallid bust of Pallas just above my chamber door;
     And the lamp-light o’er him streaming throws his shadow on the floor;
 And my soul from out that shadow that lies floating on the floor
             Shall be lifted—nevermore!
+<<<<<<< HEAD
+=======
+
+>>>>>>> alternative
